@@ -7950,3 +7950,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.06-23.02.53:745][851]LogSavePackage: Moving 'C:/Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Saved/BP_TunnelF44D0FF94918F78C67BD83A9C81A72EA.tmp' to 'C:/Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
 [2022.09.06-23.02.53:755][851]AssetCheck: New page: Asset Save: BP_Tunnel
 [2022.09.06-23.02.53:755][851]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.06-23.04.19:018][337]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.06-23.04.19:045][337]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.06-23.04.19:049][337]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-23.04.19:050][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-23.04.23:378][840]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2022.09.06-23.07.10:393][868]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.06-23.07.10:401][868]LogSlate: Window 'BP_Tunnel' being destroyed
+[2022.09.06-23.07.10:404][868]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-23.07.10:404][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
