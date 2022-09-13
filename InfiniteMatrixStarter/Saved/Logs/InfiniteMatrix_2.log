@@ -2020,3 +2020,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.13-21.06.41:249][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.09.13-21.06.41:255][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2022.09.13-21.06.41:277][328]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.09.13-21.07.19:325][247]LogSavePackage: Moving '../../../../../../Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Saved/BP_Enemy680204E9499DB94A62977696847AA3E4.tmp' to '../../../../../../Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset'
+[2022.09.13-21.07.19:381][247]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.09.13-21.07.19:381][247]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2022.09.13-21.07.21:465][453]LogSavePackage: Moving '../../../../../../Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Saved/BP_Projectile964631AA48442F9B8D69A49A5E34F3EA.tmp' to '../../../../../../Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset'
+[2022.09.13-21.07.21:521][453]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.09.13-21.07.21:521][453]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile
+[2022.09.13-21.07.24:248][697]BlueprintLog: New page: Compile MyShake
+[2022.09.13-21.07.24:284][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.09.13-21.07.26:752][971]LogSavePackage: Moving '../../../../../../Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Saved/MyShake44B77B3544B22B73DF828E84E8FE8813.tmp' to '../../../../../../Users/sejal2/Documents/unreal_tutorial/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/MyShake.uasset'
+[2022.09.13-21.07.26:807][971]AssetCheck: New page: Asset Save: MyShake
+[2022.09.13-21.07.26:807][971]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/MyShake.MyShake
